@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react_frist/static/css/main.a61804ea.css",
+    "main.js": "/react_frist/static/js/main.31f7cdd0.js",
+    "static/js/787.28cb0dcd.chunk.js": "/react_frist/static/js/787.28cb0dcd.chunk.js",
+    "static/media/img-2.jpg": "/react_frist/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/img-1.jpg": "/react_frist/static/media/img-1.53f4843759ebec256cb9.jpg",
+    "static/media/img-8.jpg": "/react_frist/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "index.html": "/react_frist/index.html",
+    "main.a61804ea.css.map": "/react_frist/static/css/main.a61804ea.css.map",
+    "main.31f7cdd0.js.map": "/react_frist/static/js/main.31f7cdd0.js.map",
+    "787.28cb0dcd.chunk.js.map": "/react_frist/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a61804ea.css",
+    "static/js/main.31f7cdd0.js"
+  ]
+}
